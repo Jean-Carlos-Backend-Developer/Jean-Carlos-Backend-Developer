@@ -1,4 +1,4 @@
-# 💫 SObre mi:
+# 💫 Sobre mi:
 👋 ¡Hola! Soy Jean Carlos, un programador backend junior apasionado por la tecnología y el desarrollo de software. Recientemente, he completado el Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma, donde he adquirido una sólida base en diversas tecnologías y lenguajes de programación.<br><br>💻  **Habilidades**:<br>- Desarrollo de aplicaciones móviles <br>- Gestión de bases de datos<br>- Implementación de buenas prácticas de programación<br>- Trabajo en equipo y colaboración en proyectos<br><br>🚀 Estoy siempre en busca de nuevos desafíos y oportunidades para aprender y crecer como desarrollador. Me apasiona resolver problemas complejos y crear soluciones eficientes y escalables.<br><br>🌟 En mi tiempo libre, me gusta contribuir a proyectos de código abierto y explorar nuevas tecnologías. Estoy emocionado por conectar con otros desarrolladores y colaborar en proyectos interesantes.<br><br>📫 ¡No dudes en contactarme para discutir proyectos, oportunidades o simplemente para charlar sobre tecnología!
 
 
